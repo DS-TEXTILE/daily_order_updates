@@ -1,0 +1,313 @@
+{
+  "lastUpdated": "December 26, 2025 10:00 AM IST",
+  "orders": [
+    {
+      "orderNo": "78",
+      "date": "21-Dec-2025",
+      "sareeImages": ["images/saree78.jpeg"],
+      "customer": "Sneha P",
+      "phone": "+91 9742294374",
+      "time": "6:04 PM",
+      "state": "Karnataka",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment78.jpeg"]
+    },
+    {
+      "orderNo": "79",
+      "date": "21-Dec-2025",
+      "sareeImages": ["images/saree79.jpeg"],
+      "customer": "Seetha",
+      "phone": "+91 9751455631",
+      "time": "9:23 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment79.jpeg"]
+    },
+    {
+      "orderNo": "80",
+      "date": "22-Dec-2025",
+      "sareeImages": ["images/saree80.jpeg", "images/saree80 (2).jpeg", "images/saree80 (3).jpeg"],
+      "customer": "M. Perarasan",
+      "phone": "+91 8668116386",
+      "time": "01:40 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment80.jpeg", "images/payment80 (2).jpeg"]
+    },
+    {
+      "orderNo": "81",
+      "date": "22-Dec-2025",
+      "sareeImages": ["images/saree81.jpeg"],
+      "customer": "Vikas Kumar",
+      "phone": "+91 9482552135",
+      "time": "04:11 PM",
+      "state": "Karnataka",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment81.jpeg"]
+    },
+    {
+      "orderNo": "82",
+      "date": "22-Dec-2025",
+      "sareeImages": ["images/saree82.jpeg"],
+      "customer": "Anbarasan",
+      "phone": "+91 8220364301",
+      "time": "04:11 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment82.jpeg"]
+    },
+    {
+      "orderNo": "83",
+      "date": "22-Dec-2025",
+      "sareeImages": ["images/saree83.jpeg", "images/saree83 (2).jpeg"],
+      "customer": "Md Giyas Ansari",
+      "phone": "+91 9205161802",
+      "time": "10:08 PM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment83.jpeg"]
+    },
+    {
+      "orderNo": "84",
+      "date": "22-Dec-2025",
+      "sareeImages": ["images/saree84.jpeg"],
+      "customer": "M. Shanthakumar",
+      "phone": "+91 7538859015",
+      "time": "10:06 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment84.jpeg"]
+    },
+    {
+      "orderNo": "85",
+      "date": "23-Dec-2025",
+      "sareeImages": ["images/saree85.jpeg"],
+      "customer": "Lohith Kumar TK",
+      "phone": "+91 8050403085",
+      "time": "10:10 AM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment85.jpeg"]
+    },
+    {
+      "orderNo": "86",
+      "date": "23-Dec-2025",
+      "sareeImages": ["images/saree86.jpeg"],
+      "customer": "P. Rajannadora",
+      "phone": "+91 8919907098",
+      "time": "04:38 PM",
+      "state": "Andhra Pradesh",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment86.jpeg"]
+    },
+    {
+      "orderNo": "87",
+      "date": "24-Dec-2025",
+      "sareeImages": ["images/saree87.jpeg"],
+      "customer": "Tamil",
+      "phone": "+91 9066406831",
+      "time": "12:04 PM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment87.jpeg"]
+    },
+    {
+      "orderNo": "88",
+      "date": "24-Dec-2025",
+      "sareeImages": ["images/saree88.jpeg"],
+      "customer": "Malathi M",
+      "phone": "+91 8940095250",
+      "time": "08:45 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment88.jpeg"]
+    },
+    {
+      "orderNo": "89",
+      "date": "24-Dec-2025",
+      "sareeImages": ["images/saree89.jpeg"],
+      "customer": "K.Saravanakumar",
+      "phone": "+91 8056624309",
+      "time": "09:23 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment89.jpeg"]
+    },
+    {
+      "orderNo": "90",
+      "date": "25-Dec-2025",
+      "sareeImages": ["images/saree90.jpeg"],
+      "customer": "Bala Manikanta Mamidisetty",
+      "phone": "+91 8897988748",
+      "time": "09:31 AM",
+      "state": "Andhra Pradesh",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment90.jpeg"]
+    },
+    {
+      "orderNo": "91",
+      "date": "25-Dec-2025",
+      "sareeImages": ["images/saree91.jpeg"],
+      "customer": "Chinna",
+      "phone": "+91 86361283028",
+      "time": "12:27 PM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment91.jpeg"]
+    },
+    {
+      "orderNo": "92",
+      "date": "25-Dec-2025",
+      "sareeImages": ["images/saree92.jpeg"],
+      "customer": "Manoj Kumar",
+      "phone": "+91 9074533417",
+      "time": "01:24 PM",
+      "state": "Kerala",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment92.jpeg"]
+    },
+    {
+      "orderNo": "93",
+      "date": "25-Dec-2025",
+      "sareeImages": ["images/saree93.jpeg"],
+      "customer": "Santhosh",
+      "phone": "+91 8838954499",
+      "time": "08:19 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment93.jpeg"]
+    },
+    {
+      "orderNo": "94",
+      "date": "25-Dec-2025",
+      "sareeImages": ["images/saree94.jpeg"],
+      "customer": "Pothamsetty Prasanna Kumar reddy",
+      "phone": "+91 9966358605",
+      "time": "08:39 PM",
+      "state": "Andhra Pradesh",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment94.jpeg"]
+    },
+    {
+      "orderNo": "95",
+      "date": "26-Dec-2025",
+      "sareeImages": ["images/saree95.jpeg"],
+      "customer": "M Yohesh",
+      "phone": "+91 9585696933",
+      "time": "04:52 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment95.jpeg"]
+    },
+    {
+      "orderNo": "96",
+      "date": "26-Dec-2025",
+      "sareeImages": ["images/saree96.jpeg"],
+      "customer": "Vijayaragavan",
+      "phone": "+91 6381457418",
+      "time": "07:48 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment96.jpeg"]
+    },
+    {
+      "orderNo": "97",
+      "date": "28-Dec-2025",
+      "sareeImages": ["images/saree97.jpeg"],
+      "customer": "Nandhini M",
+      "phone": "+91 8248411105",
+      "time": "08:06 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment97.jpeg"]
+    },
+    {
+      "orderNo": "98",
+      "date": "28-Dec-2025",
+      "sareeImages": ["images/saree98.jpeg"],
+      "customer": "Kaliraj K",
+      "phone": "+91 6369767369",
+      "time": "03:35 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment98.jpeg"]
+    },
+    {
+      "orderNo": "99",
+      "date": "28-Dec-2025",
+      "sareeImages": ["images/saree99.jpeg"],
+      "customer": "Kaliraj K",
+      "phone": "+91 9342862585",
+      "time": "04:17 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment99.jpeg"]
+    },
+    {
+      "orderNo": "100",
+      "date": "29-Dec-2025",
+      "sareeImages": ["images/saree100.jpeg"],
+      "customer": "Abu",
+      "phone": "+91 9786987630",
+      "time": "12:12 PM",
+      "state": "Tamil Nadu",
+      "payment": "Online Paid",
+      "paymentImages": ["images/payment100.jpeg"]
+    },
+    {
+      "orderNo": "101",
+      "date": "29-Dec-2025",
+      "sareeImages": ["images/saree101.jpeg"],
+      "customer": "Santhosh",
+      "phone": "+91 8838954499",
+      "time": "02:08 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment101.jpeg"]
+    },
+    {
+      "orderNo": "102",
+      "date": "29-Dec-2025",
+      "sareeImages": ["images/saree102.jpeg"],
+      "customer": "Suvanth kumar MK",
+      "phone": "+91 9539886087",
+      "time": "04:29 PM",
+      "state": "Kerala",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment102.jpeg"]
+    },
+    {
+      "orderNo": "103",
+      "date": "30-Dec-2025",
+      "sareeImages": ["images/saree103.jpeg"],
+      "customer": "Tamil Mani",
+      "phone": "+91 9080179985",
+      "time": "12:49 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment103.jpeg"]
+    },
+    {
+      "orderNo": "104",
+      "date": "30-Dec-2025",
+      "sareeImages": ["images/saree104.jpeg"],
+      "customer": "Esakkiraj",
+      "phone": "+91 8072717739",
+      "time": "03:07 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment104.jpeg"]
+    },
+    {
+      "orderNo": "105",
+      "date": "30-Dec-2025",
+      "sareeImages": ["images/saree105.jpeg"],
+      "customer": "Ajith Kumar M",
+      "phone": "+91 9449722897",
+      "time": "05:29 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment105.jpeg"]
+    }
+  ]
+}
