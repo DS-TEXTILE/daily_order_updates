@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "December 31, 2025 3:00 PM IST",
+  "lastUpdated": "December 26, 2025 10:00 AM IST",
   "orders": [
     {
       "orderNo": "78",
@@ -279,7 +279,7 @@
     {
       "orderNo": "103",
       "date": "30-Dec-2025",
-      "sareeImages": ["images/saree103.jpeg"],
+      "sareeImages": ["images/saree103.jpeg","images/saree103(2).jpeg"],
       "customer": "Tamil Mani",
       "phone": "+91 9080179985",
       "time": "12:49 PM",
@@ -310,6 +310,4 @@
       "paymentImages": ["images/payment105.jpeg"]
     }
   ]
-
 }
-
