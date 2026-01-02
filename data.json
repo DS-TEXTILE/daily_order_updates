@@ -236,7 +236,7 @@
       "orderNo": "99",
       "date": "28-Dec-2025",
       "sareeImages": ["images/saree99.jpeg"],
-      "customer": "Kaliraj K",
+      "customer": "Priyan V",
       "phone": "+91 9342862585",
       "time": "04:17 PM",
       "state": "Tamil Nadu",
@@ -312,3 +312,4 @@
   ]
 
 }
+
