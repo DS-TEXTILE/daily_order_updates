@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "December 26, 2025 10:00 AM IST",
+  "lastUpdated": "January 02, 2026 06:50 PM IST",
   "orders": [
     {
       "orderNo": "78",
@@ -279,7 +279,7 @@
     {
       "orderNo": "103",
       "date": "30-Dec-2025",
-      "sareeImages": ["images/saree103.jpeg","images/saree103(2).jpeg"],
+      "sareeImages": ["images/saree103.jpeg","images/saree103 (2).jpeg"],
       "customer": "Tamil Mani",
       "phone": "+91 9080179985",
       "time": "12:49 PM",
@@ -308,6 +308,72 @@
       "state": "Tamil Nadu",
       "payment": "Cash on Delivery",
       "paymentImages": ["images/payment105.jpeg"]
+    },
+    {
+      "orderNo": "106",
+      "date": "01-Jan-2026",
+      "sareeImages": ["images/saree106.jpeg"],
+      "customer": "Yuvan Kumar",
+      "phone": "+91 8220201907",
+      "time": "12:08 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment106.jpeg"]
+    },
+    {
+      "orderNo": "107",
+      "date": "01-Jan-2026",
+      "sareeImages": ["images/saree107.jpeg"],
+      "customer": "Ramu",
+      "phone": "+91 9964616802",
+      "time": "05:44 PM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment107.jpeg"]
+    },
+    {
+      "orderNo": "108",
+      "date": "01-Jan-2026",
+      "sareeImages": ["images/saree108.jpeg"],
+      "customer": "M Alaguraja",
+      "phone": "+91 9367109529",
+      "time": "08:22 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment108.jpeg"]
+    },
+    {
+      "orderNo": "109",
+      "date": "01-Jan-2026",
+      "sareeImages": ["images/saree109.jpeg"],
+      "customer": "Sakthivel",
+      "phone": "+91 8667673639",
+      "time": "08:29 PM",
+      "state": "Tamil Nadu",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment109.jpeg"]
+    },
+    {
+      "orderNo": "110",
+      "date": "02-Jan-2026",
+      "sareeImages": ["images/saree110.jpeg","images/saree110 (2).jpeg"],
+      "customer": "Ravi B R",
+      "phone": "+91 9915811455",
+      "time": "11:53 AM",
+      "state": "Karnataka",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment110.jpeg"]
+    },
+    {
+      "orderNo": "111",
+      "date": "02-Jan-2026",
+      "sareeImages": ["images/saree111.jpeg"],
+      "customer": "K Gopi",
+      "phone": "+91 9494006647",
+      "time": "01:42 AM",
+      "state": "Andhra Pradesh",
+      "payment": "Cash on Delivery",
+      "paymentImages": ["images/payment111.jpeg"]
     }
   ]
 }
